@@ -1,0 +1,11 @@
+
+@font-face {
+    font-family: 'font2';
+    src: url('../fajer-noori-nastalique-webfont.eot');
+    src: url('../fajer-noori-nastalique-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fajer-noori-nastalique-webfont.woff2') format('woff2'),
+         url('../fajer-noori-nastalique-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
